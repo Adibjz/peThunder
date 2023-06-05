@@ -1,0 +1,36 @@
+body{
+background-image: url("https://images8.alphacoders.com/772/772689.jpg");    
+background-size: cover ;}
+#title{
+ color: blue;   
+}
+#inf{
+background-color:beige;    
+}
+.webs{
+color: blue;    
+}
+#logo{
+ width: 3cm;   
+}
+#dog{
+width:10cm    
+}
+#catt{
+width: 10cm;    
+}
+#bird{
+width: 10cm;    
+}
+#hamster{
+  width: 10cm;  
+}
+.pic{
+display: flex;    
+gap: 5px;}
+#dg{
+color:blue    
+}
+#hm{
+color:blueviolet;    
+}
